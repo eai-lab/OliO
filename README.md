@@ -94,7 +94,7 @@ If you find this work useful, please cite our paper:
 ```bibtex
 @inproceedings{park2026olio,
   title     = {OliO: ODE-based Linear Transition Operator for Self-Supervised Time Series Forecasting},
-  author    = {Park, Kwangryeol and Lee, Seulki},
+  author    = {Kwangryeol Park, Seulki Lee},
   booktitle = {Advances in Neural Information Processing Systems},
   year      = {2026}
 }
