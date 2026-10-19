@@ -3,7 +3,7 @@
 <a href="https://github.com/eai-lab/AliO"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>
 <a href="https://neurips.cc/virtual/2026/loc/sydney/poster/150464"><img src="https://img.shields.io/badge/NeurIPS25:150464-3776AB?style=flat"/></a>
 
-
+Paper <a href="https://arxiv.org/abs/2610.23345"> NeurIPS 2026 | arxiv </a>
 Poster <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202026/150464.png?t=1791857063.7298853">link</a>
 
 # Abstract
