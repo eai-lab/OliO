@@ -7,6 +7,10 @@
 
 * Poster <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202026/150464.png?t=1791857063.7298853">link</a>
 
+* Video <a href="https://recorder-v3.slideslive.com/?share=113345&s=7ec45086-5e04-42ef-95ce-f21f837c3390">link</a>
+
+* NeurIPS Online Conference <a href="https://neurips.cc/virtual/2026/loc/sydney/poster/150464">link</a>
+
 <img src='olio.png'>
 
 # Abstract
